@@ -37,8 +37,8 @@ MVI Pattern	For maintaining a clean and structured app architecture
 <p float="left">
   <img src="images/photo_2025-04-16_14-22-11.jpg" width="150"/>
   <img src="images/photo_2025-04-16_14-22-13.jpg" width="150"/>
-  <img src="images/photo_2025-04-16_14-22-24.jpg" width="150"/>
   <img src="images/photo_2025-04-16_14-22-14.jpg" width="150"/>
+  <img src="images/photo_2025-04-16_14-22-24.jpg" width="150"/>
 </p>
 
 # 🚀 Running the Project
